@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Pembagian/main_tb_isim_beh.exe" -prj "D:/Pembagian/main_tb_beh.prj" "work.main_tb" 

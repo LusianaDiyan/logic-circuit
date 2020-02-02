@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\USER\Downloads\Pembagian\main.ncd
+OUTFILE=C:\Users\USER\Downloads\Pembagian\main.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=C:\Users\USER\Downloads\Pembagian
+LICENSE=WebPack
+USER_INFO=211689637_0_0_812
